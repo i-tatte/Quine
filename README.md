@@ -1,3 +1,3 @@
 # Quine
 ## What's this?
-A simple [quine](https://en.wikipedia.org/wiki/Quine_(computing)) made in Java.
+This is a simple [quine](https://en.wikipedia.org/wiki/Quine_(computing)) made in Java.
